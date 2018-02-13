@@ -11,10 +11,10 @@ msgstr ""
 "Project-Id-Version: event-photo-module\n"
 "Last-Translator: mikolay <mikolay@crowdin.com>\n"
 "Language-Team: Japanese\n"
-"PO-Revision-Date: 2018-02-06 17:34+0200\n"
+"PO-Revision-Date: 2018-02-13 17:15+0200\n"
 
 msgid "%albumDate%, %albumTitle%"
-msgstr ""
+msgstr "|123_11_0_321|、|123_12_1_321|"
 
 msgid "%imageTitle%"
 msgstr ""
