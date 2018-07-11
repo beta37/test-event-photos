@@ -5,3 +5,5 @@ files:
     translation: /Resources/translations/%file_name%.%two_letters_code%.po
     translation_replace:
       .template.: .
+sync_languages: 
+  - ja
