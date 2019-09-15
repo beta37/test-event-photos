@@ -11,10 +11,10 @@ msgstr ""
 "Project-Id-Version: event-photo-module\n"
 "Last-Translator: mikolay <mikolay@crowdin.com>\n"
 "Language-Team: Japanese\n"
-"PO-Revision-Date: 2018-02-06 17:35+0200\n"
+"PO-Revision-Date: 2018-02-13 17:22+0200\n"
 
 msgid "Action has been completed."
-msgstr ""
+msgstr "Екшен не завершений."
 
 msgid "Create"
 msgstr ""
